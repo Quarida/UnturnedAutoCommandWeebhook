@@ -1,0 +1,51 @@
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\AutoCommand.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\AutoCommand.pdb
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\Assembly-CSharp.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\Rocket.API.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\Rocket.Core.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\Rocket.Unturned.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\SDG.NetTransport.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\UnityEngine.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.AssemblyReference.cache
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.CoreCompileInputs.cache
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.CopyComplete
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\obj\Debug\AutoCommand.dll
+C:\Users\Enes Berke Şahin\source\repos\AutoCommand\AutoCommand\obj\Debug\AutoCommand.pdb
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\AutoCommand.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\AutoCommand.pdb
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\Assembly-CSharp.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\Rocket.API.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\Rocket.Core.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\Rocket.Unturned.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\SDG.NetTransport.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\UnityEngine.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.CopyComplete
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.dll
+C:\Users\Enes\Desktop\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.pdb
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\AutoCommand.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\AutoCommand.pdb
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\Assembly-CSharp.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\Rocket.API.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\Rocket.Core.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\Rocket.Unturned.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\SDG.NetTransport.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\UnityEngine.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.csproj.CopyComplete
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.dll
+C:\Users\Enes\Desktop\Masaüstü\pluginler\AutoCommand\AutoCommand\obj\Debug\AutoCommand.pdb
